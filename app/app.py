@@ -116,7 +116,7 @@ with st.container():
         st.markdown(
             """
             <p style='font-size:18px; text-align: justify;'>
-            Il progetto si concentra sull'analisi delle concentrazioni di PM10 a Bologna, con particolare attenzione agli episodi in cui viene superata la soglia di 50 µg/m³ nel biennio 2024–2025. I dati provengono da tre centraline di rilevamento collocate in punti strategici della città.
+            Il progetto si concentra sull'analisi del PM10 a Bologna, con particolare attenzione agli episodi in cui viene superata la soglia di 50 µg/m³ nel biennio 2024–2025. I dati provengono da tre centraline di rilevamento collocate in punti strategici della città.
             </p>
             """,
             unsafe_allow_html=True
