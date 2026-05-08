@@ -652,9 +652,7 @@ st.write("")
 st.write("")
 
 st.markdown("""
-- 📁 Dataset e codice: [GitHub repository](https://github.com/tuo-username/tuo-repo)
-- 🌍 Dati meteo: Open-Meteo / Copernicus
-- 📊 Modello: XGBoost trained on historical PM10 data
+- 📁 Dataset e codice: [GitHub repository](https://github.com/SusannaCasarini/Forecasting-Bologna-Air-Quality/tree/main)
 """)
 
 
