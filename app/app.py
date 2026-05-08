@@ -652,8 +652,10 @@ st.write("")
 st.write("")
 
 st.markdown("""
-- 📁 Dataset e codice: [GitHub repository](https://github.com/SusannaCasarini/Forecasting-Bologna-Air-Quality/tree/main)
-""")
+<div style='text-align:center;'>
+📁 Dataset e codice: <a href='https://github.com/SusannaCasarini/Forecasting-Bologna-Air-Quality/tree/main'>GitHub repository</a>
+</div>
+""", unsafe_allow_html=True)
 
 
 st.write("")
